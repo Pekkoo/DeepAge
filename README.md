@@ -1,6 +1,6 @@
 # DeepAge 
 
-Have you found an old image for which you can't tell when it was taken? Worry not, DeepAge does that for you. If the image happens to be from somewhere between 1900 and 1965.
+Have you found an old image for which you can't tell when it was taken? Worry not, DeepAge does that for you. *If the image happens to be from somewhere between 1900 and 1965*.
 
 Python 2.7.
 
